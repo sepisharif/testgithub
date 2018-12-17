@@ -1,3 +1,5 @@
+![chart](chart1.pdf)
+
 # testgithub
 Learning about GitHub December 18,2018
 # header1

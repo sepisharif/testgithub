@@ -1,4 +1,4 @@
-![chart](chart1.pdf)
+[chart](chart1.pdf)
 
 # testgithub
 Learning about GitHub December 18,2018
@@ -22,9 +22,10 @@ this is *italic*
 this is 
 x^2^ +y^2^=
 h~2~o
-...
+
+```
 plot(rnorm(1,10),rnorm
->>>
+```
 |column1|column2|column3|
 |------|-----|-------|
 |content    |content   |content|
